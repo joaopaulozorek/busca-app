@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuscaCBMSC</string>
+    <string name="descricao">Perfis de vítimas perdidas mais atendidas pelo CBMSC:</string>
+    <string name="apoio_a_busca_cbmsc_title">APOIO A BUSCA - CBMSC</string>
+</resources>
